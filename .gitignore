@@ -1,0 +1,5 @@
+*.exe
+*.class
+*.o
+
+gcc linear.c -o linear

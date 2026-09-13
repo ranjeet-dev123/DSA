@@ -1,40 +1,27 @@
-# Linear Search
+# Searching Algorithms
 
-Linear Search is a simple searching algorithm that checks each element of an array one by one until the target element is found.
+This folder contains implementations of searching algorithms in C and Java.
 
-## Files
+## Algorithms
 
-* `linear.c` — Linear Search implementation in C
-* `linear.java` — Linear Search implementation in Java
+* Linear Search
+* Binary Search
 
-## Algorithm
+---
 
-1. Start from the first element.
-2. Compare the current element with the target.
-3. If the element matches the target, return its index.
-4. If no element matches, return `-1`.
+## 1. Linear Search
 
-## Example
+Linear Search checks each element one by one until the target element is found.
 
-Given array:
+### Example
 
 ```text
-[2, 3, 4, 10, 40]
+Array:   [2, 3, 4, 10, 40]
+Target:  10
+Result:  Index 3
 ```
 
-Target:
-
-```text
-10
-```
-
-Output:
-
-```text
-Element found at index 3
-```
-
-## Complexity
+### Complexity
 
 | Case         | Time Complexity |
 | ------------ | --------------- |
@@ -42,21 +29,48 @@ Element found at index 3
 | Average Case | O(n)            |
 | Worst Case   | O(n)            |
 
-### Space Complexity
+Space Complexity: `O(1)`
+
+---
+
+## 2. Binary Search
+
+Binary Search repeatedly divides a **sorted array** into two halves to find the target element.
+
+### Example
 
 ```text
-O(1)
+Array:   [2, 3, 4, 10, 40]
+Target:  10
+Result:  Index 3
 ```
 
-## Key Learning
+### How It Works
 
-* Array traversal
-* Function creation
-* Searching an element
-* Returning an index
-* Handling an element that is not present
-* Array size in C using `sizeof()`
-* Array length in Java using `.length`
+For every iteration:
+
+1. Find the middle element.
+2. Compare the middle element with the target.
+3. If both are equal, return the index.
+4. If the middle element is smaller than the target, search the right half.
+5. If the middle element is greater than the target, search the left half.
+6. If the target is not present, return `-1`.
+
+### Complexity
+
+| Case         | Time Complexity |
+| ------------ | --------------- |
+| Best Case    | O(1)            |
+| Average Case | O(log n)        |
+| Worst Case   | O(log n)        |
+
+Space Complexity: `O(1)`
+
+### Important Condition
+
+Binary Search works correctly only when the array is **sorted**.
+
+---
 
 ## Languages
 
@@ -66,7 +80,7 @@ O(1)
 ## Learning Progress
 
 * [x] Linear Search
-* [ ] Binary Search
+* [x] Binary Search
 * [ ] Bubble Sort
 * [ ] Selection Sort
 * [ ] Insertion Sort

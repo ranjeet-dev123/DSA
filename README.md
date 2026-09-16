@@ -1,10 +1,35 @@
 # 📚 Data Structures and Algorithms
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA Badge">
+
+<img src="https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c&logoColor=white" alt="C">
+
+<img src="https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/src/demo.svg" alt="DSA Learning">
+
+</div>
+
 Welcome to my **Data Structures and Algorithms (DSA)** learning repository.
 
 This repository contains my implementations, practice problems, algorithms, and notes while learning DSA using **C and Java**.
 
 The goal is to build strong fundamentals in Data Structures and Algorithms, improve problem-solving skills, and prepare for technical interviews.
+
+<div align="center">
+
+### 💻 Learn • Practice • Implement • Improve
+
+</div>
+
 
 ---
 

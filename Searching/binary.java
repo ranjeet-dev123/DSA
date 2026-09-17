@@ -25,8 +25,8 @@ public class binary {
 
     public static void main(String[] args) {
 
-        int[] arr = {2, 3, 4, 10, 40};
-        int target = 10;
+        int[] arr = {2, 3, 4, 10, 40,102,25,52,85,68,99,100,101,102,103,104,105,106,107,108,109,110};
+        int target = 100;
 
         int result = binarySearch(arr, target);
 

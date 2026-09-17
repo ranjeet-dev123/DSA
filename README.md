@@ -50,16 +50,23 @@ The goal is to build strong fundamentals in Data Structures and Algorithms, impr
 
 ## 1. Programming Fundamentals
 
-* [ ] Variables and Data Types
-* [ ] Input / Output
-* [ ] Operators
-* [ ] Conditional Statements
-* [ ] Loops
-* [ ] Functions
-* [ ] Recursion
-* [ ] Pointers
-* [ ] Structures
-* [ ] Dynamic Memory Allocation
+## 1. 💻 Programming Fundamentals
+
+* [x] Variables and Data Types
+* [x] Input / Output
+* [x] Operators
+* [x] Conditional Statements
+* [x] Loops
+* [x] Functions
+* [x] Recursion
+* [x] Pointers
+* [x] Structures
+* [x] Dynamic Memory Allocation
+
+📁 **Folder:** [`ProgrammingFundamentals/`](./ProgrammingFundamentals/)
+
+**Status:** ✅ Completed
+
 
 ---
 

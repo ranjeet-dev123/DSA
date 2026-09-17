@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/src/demo.svg" alt="DSA Learning">
+
 
 </div>
 

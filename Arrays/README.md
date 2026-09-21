@@ -2,9 +2,8 @@
 
 <div align="center">
 
-![Arrays](https://img.shields.io/badge/DSA-Arrays-blue?style=for-the-badge)
-![C](https://img.shields.io/badge/C-Implementation-blue?style=for-the-badge\&logo=c)
-![Java](https://img.shields.io/badge/Java-Implementation-orange?style=for-the-badge\&logo=openjdk)
+
+\
 
 </div>
 
@@ -547,28 +546,28 @@ Merged:
 
 # 📌 Learning Progress
 
-* [ ] Introduction to Arrays
-* [ ] Array Traversal
-* [ ] Array Insertion
-* [ ] Array Deletion
-* [ ] Array Update
-* [ ] Array Searching
-* [ ] Array Rotation
-* [ ] Array Reversal
-* [ ] Two Pointer Technique
-* [ ] Prefix Sum
-* [ ] Sliding Window
+* [x] Introduction to Arrays
+* [x] Array Traversal
+* [x] Array Insertion
+* [x] Array Deletion
+* [x] Array Update
+* [x] Array Searching
+* [x] Array Rotation
+* [x] Array Reversal
+* [x] Two Pointer Technique
+* [x] Prefix Sum
+* [x] Sliding Window
 
 ### Practice
 
-* [ ] Find Maximum Element
-* [ ] Find Minimum Element
-* [ ] Find Second Largest
-* [ ] Reverse an Array
-* [ ] Rotate an Array
-* [ ] Remove Duplicates
-* [ ] Move Zeroes
-* [ ] Merge Arrays
+* [x] Find Maximum Element
+* [x] Find Minimum Element
+* [x] Find Second Largest
+* [x] Reverse an Array
+* [x] Rotate an Array
+* [x] Remove Duplicates
+* [x] Move Zeroes
+* [x] Merge Arrays
 
 ---
 
